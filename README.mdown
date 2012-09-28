@@ -1,13 +1,19 @@
-## Solarized Dark, @steipete mod
+## Solarized Dark, modded
 
-Over the years I found the perfect theme for working with Xcode.
-It's based on the excellent solarized themeset: https://github.com/altercation/solarized  
-If you like dark coding themes, check it out!
+These Xcode themes are based on the Solarized Dark mod by @steipete. In here are four versions included, two with Meslo DZ, two with Source Code Pro.
 
-Font is Meslo DZ, a customized version of Apple’s Menlo-Regular font. (Apache v2 licensed)
-https://github.com/andreberg/Meslo-Font
+Meslo DZ is a customized version of Apple’s Menlo-Regular font. It is Apache v2 licensed, see https://github.com/andreberg/Meslo-Font.
+Source Code Pro is licensed under the SIL Open Font License, Version 1.1, see https://github.com/adobe/Source-Code-Pro.
 
-![Screenshot](http://f.cl.ly/items/3R0n3r2q3i1n431c1j1C/Screen%20Shot%202011-07-26%20at%2010.51.50%20AM.png "Screenshot")
+Source Code Pro 13 and 12pt
+
+![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/SCP13.png "Screenshot")
+![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/SCP12.png "Screenshot")
+
+Meslo DZ 13 and 12pt
+
+![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/Meslo13.png "Screenshot")
+![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/Meslo12.png "Screenshot")
 
 Installation
 ------------
