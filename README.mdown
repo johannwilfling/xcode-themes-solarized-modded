@@ -3,18 +3,19 @@
 These Xcode themes are based on the Solarized Dark mod by @steipete. In here are four versions included, two with Meslo DZ, two with Source Code Pro.
 
 Meslo DZ is a customized version of Apple’s Menlo-Regular font. It is Apache v2 licensed, see https://github.com/andreberg/Meslo-Font.
+
 Source Code Pro is licensed under the SIL Open Font License, Version 1.1, see https://github.com/adobe/Source-Code-Pro.
 
-Source Code Pro 13 and 12pt
+Source Code Pro 13 and 12pt Screenshots:
 
 ![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/SCP13.png "Screenshot")
 ![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/SCP12.png "Screenshot")
 
-Meslo DZ 13 and 12pt
+Meslo DZ 13 and 12pt Screenshots:
 
 ![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/Meslo13.png "Screenshot")
 ![Screenshot](https://raw.github.com/stefanmunz/xcode-themes-solarized-modded/master/Screenshots/Meslo12.png "Screenshot")
 
 Installation
 ------------
-Copy the .dvtcolortheme files from this directory into ~/Library/Developer/Xcode/UserData/FontAndColorThemes - you may have to make this folder if you haven't changed your color themes. Restart Xcode, select new Theme in Color settings. That's it.
+Copy the .dvtcolortheme files into ~/Library/Developer/Xcode/UserData/FontAndColorThemes - you may have to create the last folder if you haven't changed your color themes yet. Install the fonts by doubleclicking them. Restart Xcode and select a new theme in Preferences/Fonts & Colors. That's it.
